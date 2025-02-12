@@ -1,2 +1,2 @@
-Kfits Gym
-This is a gym backend with javascript-express js
+first node project
+first node backend with javascript-express js
